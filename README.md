@@ -1,1 +1,3 @@
 # saltgen
+
+generate salted passwords
